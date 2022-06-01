@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908324676240",
+    "project_id": "fir-kullanicigiris-d06ed",
+    "storage_bucket": "fir-kullanicigiris-d06ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908324676240:android:85c8dab4bdbbf8d46a6e15",
+        "android_client_info": {
+          "package_name": "com.example.firebase_kullanici_giris_tasarimi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908324676240-egk0bnrhs1199ifo3hksns9hnvbrqajf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVcVJmS95bAGbfZx2dWuwwFcXhSKLTKnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908324676240-egk0bnrhs1199ifo3hksns9hnvbrqajf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
